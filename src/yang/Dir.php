@@ -1,5 +1,5 @@
 <?php
-namespace Yangchi;
+namespace Yang;
 //后根序遍历目录, 读取所有子目录和文件
 //张志斌 954861399@qq.com
 class Dir

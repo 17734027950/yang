@@ -1,5 +1,5 @@
 <?php
-namespace Yangchi;
+namespace Yang;
 /**
  * Created by PhpStorm.
  * User: xialiangyong

@@ -21,7 +21,7 @@
 * }
 *
 */
-namespace Yangchi;
+namespace Yang;
 class Filecache
 {
 	/**

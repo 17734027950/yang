@@ -5,7 +5,7 @@
  * @author Yurun <yurun@yurunsoft.com>
  * @copyright 宇润软件(Yurunsoft.Com) All rights reserved.
  */
-namespace Yangchi;
+namespace Yang;
 class Pinyinhan
 {
 	public static $dict = 

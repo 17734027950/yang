@@ -1,5 +1,5 @@
 <?php
-namespace Yangchi\driver;
+namespace Yang\driver;
 
 use Yangchi\Image;
 

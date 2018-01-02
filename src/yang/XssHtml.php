@@ -27,7 +27,7 @@
 # PHP Version > 5.0
 # 浏览器版本：IE7+ 或其他浏览器，无法防御IE6及以下版本浏览器中的XSS
 # 更多使用选项见 http://phith0n.github.io/XssHtml
-namespace Yangchi;
+namespace Yang;
 class XssHtml {
 	private $m_dom;
 	private $m_xss;
