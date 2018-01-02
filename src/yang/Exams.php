@@ -1,5 +1,5 @@
 <?php
-    namespace Yangchi;
+    namespace Yang;
     class Exams{
         function BhTest($args)
         {
