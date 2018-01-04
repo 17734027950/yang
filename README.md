@@ -1,4 +1,8 @@
 
+## 新增 Yang2
+* 1、hash 生成及验证
+* 2、hash verify
+
 ## 新增二维码
 * phpqrcode
 
