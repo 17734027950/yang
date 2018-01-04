@@ -10,7 +10,8 @@
 	],
 	"autoload": {
 	    "psr-4": {
-	        "Yang\\": "src/yang/"
+	        "Yang\\": "src/yang/",
+	        "Yang2\\": "src/yang2/"
 	    }
 	}
 }
