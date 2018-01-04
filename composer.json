@@ -1,6 +1,6 @@
 {
 	"name": "17734027950/yang",
-	"description": "A RESTful API package",
+	"description": "class",
 	"license": "Apache-2.0",
 	"authors": [
 	    {
@@ -10,9 +10,7 @@
 	],
 	"autoload": {
 	    "psr-4": {
-	        "Yang\\": "src/yang/",
-	        "DavidNineRoc\\Qrcode\\": "src/qrcode/",
-            "Endroid\\QrCode\\": "src/qrcode/"
+	        "Yang\\": "src/yang/"
 	    }
 	}
 }
