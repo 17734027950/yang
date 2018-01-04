@@ -10,7 +10,9 @@
 	],
 	"autoload": {
 	    "psr-4": {
-	        "Yang\\": "src/yang/"
+	        "Yang\\": "src/yang/",
+	        "DavidNineRoc\\Qrcode\\": "src/qrcode/",
+            "Endroid\\QrCode\\": "src/qrcode/"
 	    }
 	}
 }
