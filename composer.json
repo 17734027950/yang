@@ -14,7 +14,8 @@
 	"autoload": {
 	    "psr-4": {
 	        "Yang\\": "src/yang/",
-	        "Yang2\\": "src/yang2/"
+	        "Yang2\\": "src/yang2/",
+	        "Plunar\\": "src/Plunar"
 	    }
 	},
     "config": {
