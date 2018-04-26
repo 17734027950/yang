@@ -1,6 +1,16 @@
 <?php
     namespace Yang;
+    /**
+     * Exams class
+     */
     class Exams{
+
+        /**
+         * BhTest function
+         *
+         * @param [type] $args
+         * @return void
+         */
         function BhTest($args)
         {
             $args1 = htmlspecialchars_decode($args);
@@ -16,5 +26,32 @@
             }
             return $args6;
         }
+
+
+        /**
+         * Undocumented function
+         *
+         * @param array $array
+         * @return json
+         */
+        function Mgrows($array = '')
+        {
+            $json = json_decode($array,true);
+            return $json;
+        }
+
+        /**
+         * MgAnswerrows function
+         *
+         * @param string $string
+         * @return void
+         */
+        function MgAnswerrows($string = '')
+        {
+            $string = explode(',',$string);
+            $json = json_encode($string);
+            return $json;
+        }
+
     }
 ?>
